@@ -865,7 +865,7 @@ form label {
 .fh5co-cover .display-tc h1 {
   margin-top: 1em;
   margin-bottom: 0px;
-  font-size: 6em;
+  font-size: 60px;
   line-height: 1;
   font-family: "AuraBlue", Arial, serif;
 }
@@ -880,13 +880,13 @@ form label {
   #fh5co-header .display-tc h1,
   #fh5co-counter .display-tc h1,
   .fh5co-cover .display-tc h1 {
-    font-size: 30px;
+    font-size: 60px;
   }
 }
 #fh5co-header .display-tc h2,
 #fh5co-counter .display-tc h2,
 .fh5co-cover .display-tc h2 {
-  font-size: 2em;
+  font-size: 30px;
   line-height: 1.5;
   margin-top: 20px;
   font-family: Engagement;
@@ -905,7 +905,6 @@ form label {
   background: #fff !important;
   color: #646464;
   border: none !important;
-  font-size: 2em;
   font-family: Sofia Sans Condensed;
   text-transform: uppercase;
 }
